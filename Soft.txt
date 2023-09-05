@@ -97,7 +97,9 @@ https://www.youtube.com/playlist?list=PLH_lE515NYR1EU8x2Zbx_-HUp-1cOx0ve
 Jakarta EE Web Total
 https://www.youtube.com/playlist?list=PLH_lE515NYR24SuoH4Lmp00S9pw77hJEZ
 
-
+##################################################################################
+Introdução ao Kotlin
+https://www.youtube.com/playlist?list=PLH_lE515NYR0hKM8rAkJPKWa88ndcQ1oE
 
 
 
