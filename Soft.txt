@@ -1,0 +1,68 @@
+Fundamentos Java:
+https://www.youtube.com/playlist?list=PLH_lE515NYR1jvZEXfPCrQXa9QMalmZ9R
+
+Jakarta EE Web Total
+https://www.youtube.com/playlist?list=PLH_lE515NYR24SuoH4Lmp00S9pw77hJEZ
+
+PrimeFaces: Turbinando o JSF
+https://www.youtube.com/playlist?list=PLH_lE515NYR24SuoH4Lmp00S9pw77hJEZ
+
+SQL Completo
+https://www.youtube.com/playlist?list=PLH_lE515NYR2yvvnkx4iEfUuf-xVkTYBw
+
+Java Backend Developer com Spring Boot
+https://www.youtube.com/playlist?list=PLH_lE515NYR3Ml6ItGa9eUR91Y2yGLNiH
+
+Java Insider
+https://www.youtube.com/playlist?list=PLH_lE515NYR2B7ozIHeEbBJb_yz-voJ69
+
+UML Essencial
+https://www.youtube.com/playlist?list=PLH_lE515NYR1w6iHoUnqH3ob2UwN-a1rb
+
+Design Patterns em Java
+https://www.youtube.com/playlist?list=PLH_lE515NYR3r-7l_OGoTVFzTkan5-TgY
+
+Programando o Sucesso
+https://www.youtube.com/playlist?list=PLH_lE515NYR2UFexA05AVQokj49Bi0lR9
+
+Análise Orientada a Objetos
+https://www.youtube.com/playlist?list=PLH_lE515NYR1Nu3EDWiz6HF48UzpzVBww
+
+Java Web com Servlets e JSPs
+https://www.youtube.com/playlist?list=PLH_lE515NYR20wIAlPO0VYomyWeUEyfBS
+
+PHP 7 Completo
+https://www.youtube.com/playlist?list=PLH_lE515NYR2ugIgedEbBUfqSefdZP1lC
+
+WEB: HTML5, CSS3, JavaScript & Ajax
+https://www.youtube.com/playlist?list=PLH_lE515NYR2lq9sbGvlTmcNYXG6-fTli
+
+Java Avançado
+https://www.youtube.com/playlist?list=PLH_lE515NYR27C1HE0HgaiBoKwkFTwNam
+
+Mão no Código: Loucademia
+https://www.youtube.com/playlist?list=PLH_lE515NYR2w3snAvLuzNvgyVvPI6Ssp
+
+JavaScript Completo
+https://www.youtube.com/playlist?list=PLH_lE515NYR2YlIowLShzlAWPGG8RaCRV
+
+Git Essencial
+https://www.youtube.com/playlist?list=PLH_lE515NYR1s5pVxBIFRHSBLOklVKbKu
+
+Eclipse na Prática
+https://www.youtube.com/playlist?list=PLH_lE515NYR0RfFry58rt83cSez9hAv-b
+
+Formação Java Master Developer
+https://www.youtube.com/playlist?list=PLH_lE515NYR3YmVYRpR88yZt_lI7Bcp6k
+
+
+
+
+
+
+
+
+
+
+
+
