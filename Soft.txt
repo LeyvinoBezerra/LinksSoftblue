@@ -55,6 +55,35 @@ https://www.youtube.com/playlist?list=PLH_lE515NYR0RfFry58rt83cSez9hAv-b
 Formação Java Master Developer
 https://www.youtube.com/playlist?list=PLH_lE515NYR3YmVYRpR88yZt_lI7Bcp6k
 
+################################################################################
+
+##Java Web com Servlets e JSP
+https://www.youtube.com/playlist?list=PLH_lE515NYR20wIAlPO0VYomyWeUEyfBS
+
+##Linguagem C
+https://www.youtube.com/playlist?list=PLH_lE515NYR3GkDQlzJKmU_efGPZSc77w
+
+##Linguagem C++
+https://www.youtube.com/playlist?list=PLH_lE515NYR2P4IJHa3U6fzzweDMW6HGw
+
+##Análise Orientada a Objetos
+https://www.youtube.com/playlist?list=PLH_lE515NYR1Nu3EDWiz6HF48UzpzVBww
+
+##Fundamentos de C#
+https://www.youtube.com/playlist?list=PLH_lE515NYR2_sYSkT2SFgP0FG6ScJTre
+
+##C# Avançado
+https://www.youtube.com/playlist?list=PLH_lE515NYR3OABaOWyqPwGsiYu4_phuw
+
+##UML Essencial
+https://www.youtube.com/playlist?list=PLH_lE515NYR1w6iHoUnqH3ob2UwN-a1rb
+
+##Jakarta EE Web Total
+https://www.youtube.com/playlist?list=PLH_lE515NYR24SuoH4Lmp00S9pw77hJEZ
+
+##PrimeFaces
+https://www.youtube.com/playlist?list=PLH_lE515NYR24SuoH4Lmp00S9pw77hJEZ
+
 
 
 
